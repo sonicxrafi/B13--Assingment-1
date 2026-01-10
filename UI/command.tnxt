@@ -1,0 +1,15 @@
+<nav class="navbar">
+  <div class="nav-logo">
+    <img src="logo.png" alt="Knowledge Vault Logo">
+  </div>
+
+  <ul class="nav-links">
+    <li><a href="#">Features</a></li>
+    <li><a href="#">How It Works</a></li>
+    <li><a href="#">Why It's Different</a></li>
+  </ul>
+
+  <div class="nav-cta">
+    <button class="btn-early-access">Get Early Access</button>
+  </div>
+</nav>
